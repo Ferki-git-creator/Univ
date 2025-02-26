@@ -1,6 +1,4 @@
-# Bym
-
-Here’s the translated and updated post in English! 🔥  
+# Bym  
 
 ---
 
