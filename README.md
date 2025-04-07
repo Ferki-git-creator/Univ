@@ -176,9 +176,10 @@ if $temp > 30 then
   sound play "alert.wav"
   graphics text 10 10 "OVERHEAT!" #FF0000
 end
+‘‘‘
 
 
----
+ ---
 
 🚀 Архітектура BVM
 
