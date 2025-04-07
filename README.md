@@ -230,6 +230,7 @@ Tree Shaking: Видалення невикористаного коду.
 Як Почати
 
 1. Клонувати репозиторій:
+```json
 
 git clone https://github.com/your-username/bym.git
 
